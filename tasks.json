@@ -38,5 +38,201 @@
 	{
 		"task": "onboard with new company. Create new account for it",
 		"is_create": 1
-	}
+    },
+    {
+        "task": "could you create new client - ventus",
+        "is_create": 1
+    },
+    {
+        "task": "Hi, could you create new client - ventus",
+        "is_create": 1
+    },
+    {
+        "task": "Hello, could you create new client - ventus",
+        "is_create": 1
+    },
+    {
+        "task": "Hello, could you create new client - ventus",
+        "is_create": 1
+    }, 
+    {
+        "task": "Hello, I need a new account for the customer",
+        "is_create": 1
+    }, 
+    {
+        "task": "Hi, I need a new account for the customer",
+        "is_create": 1
+    },         
+    {
+        "task": "Hello, I need a new account for the customer, could you create it?",
+        "is_create": 1
+    },
+    {
+        "task": "Hi, I need a new account for the customer, could you create it?",
+        "is_create": 1
+    },
+    {
+        "task": "Hello, I need a new account for the customer, could you create it?",
+        "is_create": 1
+    },
+    {
+        "task": "I need a new account for the customer, could you create it?",
+        "is_create": 1
+    },     
+    {
+        "task": "I need a new account for the customer",
+        "is_create": 1
+    },
+    {
+        "task": "I need a new client",
+        "is_create": 1
+    },
+    {
+        "task": "Please, create me a new client",
+        "is_create": 1
+    }, 
+    {
+        "task": "Please, create me a new acccount",
+        "is_create": 1
+    },
+    {
+        "task": "Client creation",
+        "is_create": 1
+    },
+    {
+        "task": "New client creation",
+        "is_create": 1
+    },
+    {
+        "task": "New account",
+        "is_create": 1
+    },
+    {
+        "task": "New client",
+        "is_create": 1
+    },
+    {
+        "task": "New customer",
+        "is_create": 1
+    },
+    {
+        "task": "Create a new client",
+        "is_create": 1
+    },
+    {
+        "task": "Please, create a new acccount",
+        "is_create": 1
+    },
+    {
+        "task": "Please, create a new client",
+        "is_create": 1
+    },    
+    {
+        "task": "Please, create a new customer",
+        "is_create": 1
+    },
+    {
+        "task": "please reset my password",
+        "is_create": 2
+    },
+    {
+        "task": "reset password please",
+        "is_create": 2
+    },
+    {
+        "task": "reset password",
+        "is_create": 2
+    },
+    {
+        "task": "reset my password please",
+        "is_create": 2
+    },
+    {
+        "task": "Hi, could you reset my password?",
+        "is_create": 2
+    },
+    {
+        "task": "Hello, could you reset my password?",
+        "is_create": 2
+    },
+    {
+        "task": "Hello, could you reset my password, please?",
+        "is_create": 2
+    },
+    {
+        "task": "Hi, could you reset my password, please?",
+        "is_create": 2
+    },
+    {
+        "task": "Hi, could you reset my password for my customer, please?",
+        "is_create": 2
+    },
+    {
+        "task": "Hi, could you reset my password for my customer?",
+        "is_create": 2
+    },
+    {
+        "task": "Hi, resete my password please",
+        "is_create": 2
+    },
+    {
+        "task": "Hello, resete my password please",
+        "is_create": 2
+    },
+    {
+        "task": "I need reset my password",
+        "is_create": 2
+    },
+    {
+        "task": "I need reset my password for the customer",
+        "is_create": 2
+    },
+    {
+        "task": "I need reset my password for the client",
+        "is_create": 2
+    },
+    {
+        "task": "Please, reset password for my client",
+        "is_create": 2
+    },
+    {
+        "task": "Please, reset password for my customer",
+        "is_create": 2
+    },
+    {
+        "task": "Please, reset password for my account",
+        "is_create": 2
+    },
+    {
+        "task": "Could you reset my password?",
+        "is_create": 2
+    },
+    {
+        "task": "Could you reset password for my client?",
+        "is_create": 2
+    },
+    {
+        "task": "Could you reset password for my customer?",
+        "is_create": 2
+    },
+    {
+        "task": "Could you reset password for my account?",
+        "is_create": 2
+    },
+    {
+        "task": "Forgot password",
+        "is_create": 2
+    },
+    {
+        "task": "Could you reset password for my account, please?",
+        "is_create": 2
+    },
+    {
+        "task": "Could you reset password for my clinet, please?",
+        "is_create": 2
+    },
+    {
+        "task": "Could you reset password for my customer, please?",
+        "is_create": 2
+    },
 ]

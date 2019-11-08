@@ -1,43 +1,43 @@
 [
-	{
-		"task": "please create new user for new client",
-		"is_create": 1
-	},
-	{
-		"task": "create new account for the customer",
-		"is_create": 1
-	},
-	{
-		"task": "new client - ventus",
-		"is_create": 1
-	},
-	{
-		"task": "please create new client",
-		"is_create": 1
-	},
-	{
-		"task": "add new username",
-		"is_create": 1
-	},
-	{
-		"task": "add customer to our system",
-		"is_create": 1
-	},
-	{
-		"task": "please add new user to the system",
-		"is_create": 1
-	},
-	{
-		"task": "new customer signed the contract - we need new account for it",
-		"is_create": 1
-	},
-	{
-		"task": "added new customer - please process it",
-		"is_create": 1
-	},
-	{
-		"task": "onboard with new company. Create new account for it",
-		"is_create": 1
+    {
+        "task": "please create new user for new client",
+        "is_create": 1
+    },
+    {
+        "task": "create new account for the customer",
+        "is_create": 1
+    },
+    {
+        "task": "new client - ventus",
+        "is_create": 1
+    },
+    {
+        "task": "please create new client",
+        "is_create": 1
+    },
+    {
+        "task": "add new username",
+        "is_create": 1
+    },
+    {
+        "task": "add customer to our system",
+        "is_create": 1
+    },
+    {
+        "task": "please add new user to the system",
+        "is_create": 1
+    },
+    {
+        "task": "new customer signed the contract - we need new account for it",
+        "is_create": 1
+    },
+    {
+        "task": "added new customer - please process it",
+        "is_create": 1
+    },
+    {
+        "task": "onboard with new company. Create new account for it",
+        "is_create": 1
     },
     {
         "task": "could you create new client - ventus",
@@ -234,5 +234,5 @@
     {
         "task": "Could you reset password for my customer, please?",
         "is_create": 2
-    },
+    }
 ]

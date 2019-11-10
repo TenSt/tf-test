@@ -1,0 +1,42 @@
+[
+    {
+        "task": "Hi, I need a new account for the customer",
+        "is_create": 1
+    },         
+    {
+        "task": "Hello, I need a new account for the customer, could you create it?",
+        "is_create": 1
+    },
+    {
+        "task": "Hi, I need a new account for the customer, could you create it?",
+        "is_create": 1
+    },
+    {
+        "task": "Hello, I need a new account for the customer, could you create it?",
+        "is_create": 1
+    },
+    {
+        "task": "I need a new account for the customer, could you create it?",
+        "is_create": 1
+    },     
+    {
+        "task": "Could you reset password for my account?",
+        "is_create": 0
+    },
+    {
+        "task": "Forgot password",
+        "is_create": 0
+    },
+    {
+        "task": "Could you reset password for my account, please?",
+        "is_create": 0
+    },
+    {
+        "task": "Could you reset password for my clinet, please?",
+        "is_create": 0
+    },
+    {
+        "task": "Could you reset password for my customer, please?",
+        "is_create": 0
+    }
+]

@@ -60,26 +60,6 @@
         "is_create": 1
     }, 
     {
-        "task": "Hi, I need a new account for the customer",
-        "is_create": 1
-    },         
-    {
-        "task": "Hello, I need a new account for the customer, could you create it?",
-        "is_create": 1
-    },
-    {
-        "task": "Hi, I need a new account for the customer, could you create it?",
-        "is_create": 1
-    },
-    {
-        "task": "Hello, I need a new account for the customer, could you create it?",
-        "is_create": 1
-    },
-    {
-        "task": "I need a new account for the customer, could you create it?",
-        "is_create": 1
-    },     
-    {
         "task": "I need a new account for the customer",
         "is_create": 1
     },
@@ -133,106 +113,86 @@
     },
     {
         "task": "please reset my password",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "reset password please",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "reset password",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "reset my password please",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Hi, could you reset my password?",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Hello, could you reset my password?",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Hello, could you reset my password, please?",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Hi, could you reset my password, please?",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Hi, could you reset my password for my customer, please?",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Hi, could you reset my password for my customer?",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Hi, resete my password please",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Hello, resete my password please",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "I need reset my password",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "I need reset my password for the customer",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "I need reset my password for the client",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Please, reset password for my client",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Please, reset password for my customer",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Please, reset password for my account",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Could you reset my password?",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Could you reset password for my client?",
-        "is_create": 2
+        "is_create": 0
     },
     {
         "task": "Could you reset password for my customer?",
-        "is_create": 2
-    },
-    {
-        "task": "Could you reset password for my account?",
-        "is_create": 2
-    },
-    {
-        "task": "Forgot password",
-        "is_create": 2
-    },
-    {
-        "task": "Could you reset password for my account, please?",
-        "is_create": 2
-    },
-    {
-        "task": "Could you reset password for my clinet, please?",
-        "is_create": 2
-    },
-    {
-        "task": "Could you reset password for my customer, please?",
-        "is_create": 2
+        "is_create": 0
     }
 ]

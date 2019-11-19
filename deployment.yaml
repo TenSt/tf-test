@@ -4,6 +4,7 @@ metadata:
   labels:
     app: governor-tf
   name: governor-tf
+  namespace: mongo
 spec:
   replicas: 1
   selector:
@@ -56,6 +57,7 @@ metadata:
   labels:
     app: governor-tf
   name: governor-tf
+  namespace: mongo
 spec:
   ports:
   - name: restapi-tf-serving

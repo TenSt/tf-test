@@ -21,16 +21,16 @@ spec:
     spec:
       containers:
       - args:
-        - --rest_api_port=8500
-        - --model_name=governor.tf
-        - --model_base_path=/mnt/export
+        - --rest_api_port=8501
+        - --model_name=governor
+        - --model_base_path=/mnt/export/governor
         command:
         - /usr/bin/tensorflow_model_server
-        image: tens/governor-tf
+        image: IMG
         imagePullPolicy: IfNotPresent
         name: governor-tf
         ports:
-        - containerPort: 8500
+        - containerPort: 8501
           protocol: TCP
         resources:
           limits:
@@ -59,10 +59,10 @@ metadata:
 spec:
   ports:
   - name: restapi-tf-serving
-    port: 8500
+    port: 8501
     protocol: TCP
-    targetPort: 8500
+    targetPort: 8501
   selector:
     app: governor-tf
   sessionAffinity: None
-  type: ClusterIP
+  type: LoadBalancer
